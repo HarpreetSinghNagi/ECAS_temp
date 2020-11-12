@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+chargedaqua.com	TRUE	/	FALSE	1999999999	380cf965cc64cbf1b3c2fdd6c9ab47ad	0kjgam5bl9rb0ke7honm4nbha6
+.google.com	TRUE	/	FALSE	1999999999	NID	204=01PE6WMryo0Bz2hXTYQ2DklEx-vAUyTCFQHNiOvd0pcUwDav5Ox0v6T8d7cQE68Hy1cMDwfd3mMOFHeokhRVqV0AQX78REaSDdSBNDsB2qpcNIgBP2OQn2Hd4kgldndGKNiCHqQQMX6RVWgjIKTUIWX7w6-7l8QENooW3MXqzpI
+
